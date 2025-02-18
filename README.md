@@ -158,11 +158,11 @@ Now copy the IP of VMP in the Computer section, then click connect
 <br />
 
 <p>
-![18](https://github.com/user-attachments/assets/50f59496-4336-465f-a3a6-674bb84d2d11)
+![18](https://github.com/user-attachments/assets/50f59496-4336-465f-a3a6-674bb84d2d11"
 
 </p>
 <p>
-![19](https://github.com/user-attachments/assets/08d8ebf6-bd43-4db4-970d-ec224479ac27)
+![19](https://github.com/user-attachments/assets/08d8ebf6-bd43-4db4-970d-ec224479ac27"
 
 
 </p>
