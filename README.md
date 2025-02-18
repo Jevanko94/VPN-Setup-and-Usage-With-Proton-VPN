@@ -172,7 +172,7 @@ Now for your username type labuser, and the password section type in your passwo
 <br />
 
 <p>
-
+<img src="https://imgur.com/a/NM25TkY"
 </p>
 <p>
 Now click yes to log into the VM
