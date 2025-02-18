@@ -1,21 +1,20 @@
 # VPN-Setup-and-Usage-With-Proton-VPN
 <p align="center">
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/29e12a4b-abba-4318-8534-514e3bdc1999"/>
+![1](https://github.com/user-attachments/assets/bf65c576-b237-4f67-913a-7680fa791f73)
+
 </p>
 <p align="center">
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/8d9ff422-dddb-401f-b3f1-56077ab38a4f"/>
+![2](https://github.com/user-attachments/assets/5cb750b0-e0db-4ea6-a811-ac49da3dd997)
+
 </p>
 <p align="center">
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/3a826f88-5515-4f9e-ab79-931bdf32acb2"/>
+![3](https://github.com/user-attachments/assets/83354073-7c92-4aed-90b2-79cdf5f36bb0)
+
 </p>
 
 <h1>VPN Setup and Usage With Proton VPN</h1>
 In this tutorial, we are going to make a VPN using Proton VPN and measure the different IP addresses. <br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Lab 4 :  VPN Setup and Usage With Proton VPN](https://youtu.be/RJzSM125_xM)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -42,7 +41,8 @@ In this tutorial, we are going to make a VPN using Proton VPN and measure the di
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/474afdee-24eb-46dc-962d-198d0617d678"/>
+![4](https://github.com/user-attachments/assets/693b705a-4ea4-4c45-8d4c-57e81b57f1ed)
+
 </p>
 <p>
 Go to whatismyipaddress.com to grab your current IP address. Open notepad or grab a piece of paper to write it down  
@@ -50,7 +50,8 @@ Go to whatismyipaddress.com to grab your current IP address. Open notepad or gra
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/6bd772e2-db85-4537-8c31-f2ffb67fff99"/>
+![5](https://github.com/user-attachments/assets/a29a2d27-b014-4ed2-8e09-192d03a2faae)
+
 </p>
 <p>
 Go to Microsoft Azure and type Virtual Machine 
@@ -58,7 +59,8 @@ Go to Microsoft Azure and type Virtual Machine
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/1368238d-044b-467b-b1d3-201fefc9f283"/>
+![6](https://github.com/user-attachments/assets/cc60f62b-0ecb-4add-a75d-d11af81d2397)
+
 </p>
 <p>
 Next click create and go to Azure Virtual Machine 
@@ -66,7 +68,8 @@ Next click create and go to Azure Virtual Machine
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/fbb99a9f-58e6-4eff-b4ff-a0797294442b"/>
+![7](https://github.com/user-attachments/assets/37ec93e0-b8ca-461a-9fd8-7f9daca56102)
+
 </p>
 <p>
 Go to the Resource Group tab and click create new, the name will be Vm-practice. then click the blue ok button
@@ -74,7 +77,8 @@ Go to the Resource Group tab and click create new, the name will be Vm-practice.
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/3dd3bf2a-66b8-4bbf-8d07-e1cc1463d586"/>
+![8](https://github.com/user-attachments/assets/5dbfe70d-0079-4521-8eb4-9d948c8bdeb2)
+
 </p>
 <p>
 Now go to the Virtual Machine name and type VMP, the region I will put Europe North Europe so we can get a out of America IP address. The Image click Windows 10 Pro version
@@ -83,10 +87,12 @@ Now go to the Virtual Machine name and type VMP, the region I will put Europe No
 
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/c3f19692-9390-4387-bb62-25ac46a0e498"/>
+![9](https://github.com/user-attachments/assets/40970054-a039-44bf-9888-17f28880fe27)
+
 </p>
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/55bbedaa-3693-4cd5-b1cb-2cb6e901f227"/>
+![10](https://github.com/user-attachments/assets/9752e990-c659-45a6-9ccf-5237be40deeb)
+
 </p>
 <p>
 Next the size can be under Standard E2, the username will be named labuser, and the password can be your unique password. Then once your done click the Licensing box in the bottom left. {NOTE} write down yur username, password, and region to rememeber when you log in
@@ -94,7 +100,8 @@ Next the size can be under Standard E2, the username will be named labuser, and 
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/de16a6f0-7f6e-4370-afd9-ae0d3dcbac3d"/>
+![11](https://github.com/user-attachments/assets/5a9b1666-bb0e-41e9-8119-614f1f78ea28)
+
 </p>
 <p>
 Next go to the Review and Create tab and click Create on the bottom left side
@@ -102,10 +109,12 @@ Next go to the Review and Create tab and click Create on the bottom left side
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/9caa3db1-6b7f-4574-8b90-4de7d0a1500d"/>
+![12](https://github.com/user-attachments/assets/96a5790c-dbf6-444e-a3bd-3d428a5972e2)
+
 </p>
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/080a6731-1d7e-4eca-9f9e-6411098f6d9a"/>
+![13](https://github.com/user-attachments/assets/0383f74a-937e-44e3-8b28-2c83fae70d26)
+
 </p>
 <p>
 Now the deployment progess will start, then once its finish you will see a green check to the left
@@ -113,7 +122,8 @@ Now the deployment progess will start, then once its finish you will see a green
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/223ad33f-02b9-43a3-86b1-d3a94b5e8911"/>
+![14](https://github.com/user-attachments/assets/eec08d45-2a3b-463b-b23d-1f31fe427950)
+
 </p>
 <p>
 Now go back to the search bar and type Virtual Machine and you will see VMP was created, click the VM
@@ -121,7 +131,8 @@ Now go back to the search bar and type Virtual Machine and you will see VMP was 
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/1f10916b-d053-4c43-bca6-04ba20f77797"/>
+![15](https://github.com/user-attachments/assets/727390d9-1c91-4d5d-8675-3264c7833fde)
+
 </p>
 <p>
 Now go copy the public IP address
@@ -129,7 +140,8 @@ Now go copy the public IP address
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/c3f8bd04-8b79-4085-8b57-2009576f3ef3"/>
+![16](https://github.com/user-attachments/assets/366231c0-9d68-45ef-b537-37b396eb99cf)
+
 </p>
 <p>
 Type Remote Desktop Conenction on your pc
@@ -137,7 +149,8 @@ Type Remote Desktop Conenction on your pc
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/63002229-ce44-4ff5-8799-d00ee129ea61"/>
+![17](https://github.com/user-attachments/assets/c0f28974-53c0-48d4-8ced-6170fbcdc8c0)
+
 </p>
 <p>
 Now copy the IP of VMP in the Computer section, then click connect
@@ -145,10 +158,13 @@ Now copy the IP of VMP in the Computer section, then click connect
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/445a1eea-6254-48b8-be11-72dc1db73b9a"/>
+![18](https://github.com/user-attachments/assets/50f59496-4336-465f-a3a6-674bb84d2d11)
+
 </p>
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/61f296b8-90fa-4a5c-a0f8-66ec5a795775"/>
+![19](https://github.com/user-attachments/assets/08d8ebf6-bd43-4db4-970d-ec224479ac27)
+
+
 </p>
 <p>
 Now for your username type labuser, and the password section type in your password then click the blue ok button
@@ -156,7 +172,7 @@ Now for your username type labuser, and the password section type in your passwo
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN/assets/143027686/3f4d8a0a-8a08-4a66-97c4-f419121f3505"/>
+
 </p>
 <p>
 Now click yes to log into the VM
