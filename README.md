@@ -1,14 +1,14 @@
 # VPN-Setup-and-Usage-With-Proton-VPN
 <p align="center">
-![1](https://github.com/user-attachments/assets/bf65c576-b237-4f67-913a-7680fa791f73)
+<img src="https://github.com/user-attachments/assets/bf65c576-b237-4f67-913a-7680fa791f73"
 
 </p>
 <p align="center">
-![2](https://github.com/user-attachments/assets/5cb750b0-e0db-4ea6-a811-ac49da3dd997)
+<img src="https://github.com/user-attachments/assets/5cb750b0-e0db-4ea6-a811-ac49da3dd997"
 
 </p>
 <p align="center">
-![3](https://github.com/user-attachments/assets/83354073-7c92-4aed-90b2-79cdf5f36bb0)
+<img src="https://github.com/user-attachments/assets/83354073-7c92-4aed-90b2-79cdf5f36bb0"
 
 </p>
 
@@ -41,7 +41,7 @@ In this tutorial, we are going to make a VPN using Proton VPN and measure the di
 <h2>Actions and Observations</h2>
 
 <p>
-![4](https://github.com/user-attachments/assets/693b705a-4ea4-4c45-8d4c-57e81b57f1ed)
+<img src="https://github.com/user-attachments/assets/693b705a-4ea4-4c45-8d4c-57e81b57f1ed"
 
 </p>
 <p>
@@ -50,7 +50,7 @@ Go to whatismyipaddress.com to grab your current IP address. Open notepad or gra
 <br />
 
 <p>
-![5](https://github.com/user-attachments/assets/a29a2d27-b014-4ed2-8e09-192d03a2faae)
+<img src="https://github.com/user-attachments/assets/a29a2d27-b014-4ed2-8e09-192d03a2faae"
 
 </p>
 <p>
@@ -59,7 +59,7 @@ Go to Microsoft Azure and type Virtual Machine
 <br />
 
 <p>
-![6](https://github.com/user-attachments/assets/cc60f62b-0ecb-4add-a75d-d11af81d2397)
+<img src="https://github.com/user-attachments/assets/cc60f62b-0ecb-4add-a75d-d11af81d2397"
 
 </p>
 <p>
@@ -68,7 +68,7 @@ Next click create and go to Azure Virtual Machine
 <br />
 
 <p>
-![7](https://github.com/user-attachments/assets/37ec93e0-b8ca-461a-9fd8-7f9daca56102)
+<img src="https://github.com/user-attachments/assets/37ec93e0-b8ca-461a-9fd8-7f9daca56102"
 
 </p>
 <p>
@@ -77,7 +77,7 @@ Go to the Resource Group tab and click create new, the name will be Vm-practice.
 <br />
 
 <p>
-![8](https://github.com/user-attachments/assets/5dbfe70d-0079-4521-8eb4-9d948c8bdeb2)
+<img src="https://github.com/user-attachments/assets/5dbfe70d-0079-4521-8eb4-9d948c8bdeb2"
 
 </p>
 <p>
@@ -87,11 +87,11 @@ Now go to the Virtual Machine name and type VMP, the region I will put Europe No
 
 
 <p>
-![9](https://github.com/user-attachments/assets/40970054-a039-44bf-9888-17f28880fe27)
+<img src="https://github.com/user-attachments/assets/40970054-a039-44bf-9888-17f28880fe27"
 
 </p>
 <p>
-![10](https://github.com/user-attachments/assets/9752e990-c659-45a6-9ccf-5237be40deeb)
+<img src="https://github.com/user-attachments/assets/9752e990-c659-45a6-9ccf-5237be40deeb"
 
 </p>
 <p>
@@ -100,7 +100,7 @@ Next the size can be under Standard E2, the username will be named labuser, and 
 <br />
 
 <p>
-![11](https://github.com/user-attachments/assets/5a9b1666-bb0e-41e9-8119-614f1f78ea28)
+<img src="https://github.com/user-attachments/assets/5a9b1666-bb0e-41e9-8119-614f1f78ea28"
 
 </p>
 <p>
@@ -109,11 +109,11 @@ Next go to the Review and Create tab and click Create on the bottom left side
 <br />
 
 <p>
-![12](https://github.com/user-attachments/assets/96a5790c-dbf6-444e-a3bd-3d428a5972e2)
+<img src="https://github.com/user-attachments/assets/96a5790c-dbf6-444e-a3bd-3d428a5972e2"
 
 </p>
 <p>
-![13](https://github.com/user-attachments/assets/0383f74a-937e-44e3-8b28-2c83fae70d26)
+<img src="https://github.com/user-attachments/assets/0383f74a-937e-44e3-8b28-2c83fae70d26"
 
 </p>
 <p>
@@ -122,7 +122,7 @@ Now the deployment progess will start, then once its finish you will see a green
 <br />
 
 <p>
-![14](https://github.com/user-attachments/assets/eec08d45-2a3b-463b-b23d-1f31fe427950)
+<img src="https://github.com/user-attachments/assets/eec08d45-2a3b-463b-b23d-1f31fe427950"
 
 </p>
 <p>
@@ -131,7 +131,7 @@ Now go back to the search bar and type Virtual Machine and you will see VMP was 
 <br />
 
 <p>
-![15](https://github.com/user-attachments/assets/727390d9-1c91-4d5d-8675-3264c7833fde)
+<img src="https://github.com/user-attachments/assets/727390d9-1c91-4d5d-8675-3264c7833fde"
 
 </p>
 <p>
@@ -140,7 +140,7 @@ Now go copy the public IP address
 <br />
 
 <p>
-![16](https://github.com/user-attachments/assets/366231c0-9d68-45ef-b537-37b396eb99cf)
+<img src="https://github.com/user-attachments/assets/366231c0-9d68-45ef-b537-37b396eb99cf"
 
 </p>
 <p>
@@ -149,7 +149,7 @@ Type Remote Desktop Conenction on your pc
 <br />
 
 <p>
-![17](https://github.com/user-attachments/assets/c0f28974-53c0-48d4-8ced-6170fbcdc8c0)
+<img src="https://github.com/user-attachments/assets/c0f28974-53c0-48d4-8ced-6170fbcdc8c0"
 
 </p>
 <p>
@@ -158,11 +158,11 @@ Now copy the IP of VMP in the Computer section, then click connect
 <br />
 
 <p>
-![18](https://github.com/user-attachments/assets/50f59496-4336-465f-a3a6-674bb84d2d11"
+<img src="https://github.com/user-attachments/assets/50f59496-4336-465f-a3a6-674bb84d2d11"
 
 </p>
 <p>
-![19](https://github.com/user-attachments/assets/08d8ebf6-bd43-4db4-970d-ec224479ac27"
+<img src="https://github.com/user-attachments/assets/08d8ebf6-bd43-4db4-970d-ec224479ac27"
 
 
 </p>
